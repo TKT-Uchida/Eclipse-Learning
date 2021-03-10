@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="リソース &apos;Servers&apos; を削除" deleteContents="false" description="リソース &apos;Servers&apos; を削除" element1="/Servers" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1615309877972"/>&#x0A;<refactoring comment="4 個のリソースを削除" deleteContents="false" description="4 個のリソースを削除" element1="/FirstJavaProject" element2="/forwardTest" element3="/practiceBasic" element4="/redirectTest" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="4" stamp="1615310691798"/>
+</session>

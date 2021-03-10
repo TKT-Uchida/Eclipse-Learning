@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\Users\takex\EclipseWorkSpace\Learning\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1899799651.index
+\practiceBasic\src
+C:\Users\takex\EclipseWorkSpace\Learning\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\206490367.index
+\redirectTest\src
+C:\Users\takex\EclipseWorkSpace\Learning\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\651632290.index
+\forwardTest\src

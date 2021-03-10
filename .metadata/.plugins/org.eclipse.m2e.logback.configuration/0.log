@@ -1,0 +1,8 @@
+2021-03-10 01:57:56,223 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-10 02:21:19,149 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-10 22:59:09,940 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-03-10 23:16:44,606 [ModalContext] INFO  o.a.s.c.u.s.e.EdDSASecurityProviderRegistrar - getOrCreateProvider(EdDSA) created instance of net.i2p.crypto.eddsa.EdDSASecurityProvider
+2021-03-10 23:16:44,787 [ModalContext] INFO  o.a.s.c.i.DefaultIoServiceFactoryFactory - No detected/configured IoServiceFactoryFactory using Nio2ServiceFactoryFactory
+2021-03-10 23:16:51,880 [sshd-JGitSshClient[5594d3b8]-nio2-thread-6] WARN  o.e.j.i.t.sshd.JGitClientSession - exceptionCaught(JGitClientSession[takex@github.com/13.114.40.48:22])[state=Opened] SshException: Server key did not validate
+2021-03-10 23:16:51,891 [sshd-JGitSshClient[5594d3b8]-nio2-thread-6] INFO  o.e.j.i.t.sshd.JGitClientSession - Disconnecting(JGitClientSession[takex@github.com/13.114.40.48:22]): SSH2_DISCONNECT_HOST_KEY_NOT_VERIFIABLE - Server key did not validate
+2021-03-10 23:24:30,481 [main] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\takex\git\repository\.git]

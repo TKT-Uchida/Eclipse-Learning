@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\takex\EclipseWorkSpace\Learning\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3218607032.index
+308083329.index
+1995670437.index
+4235826566.index
+3484058522.index
+2981805718.index
+3840630099.index
+826229770.index
